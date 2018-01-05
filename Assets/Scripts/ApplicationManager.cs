@@ -1,19 +1,19 @@
 ﻿using UnityEngine;
 using System.Collections;
-using UnityEditor.SceneManagement;
+using UnityEngine.SceneManagement;
 public class ApplicationManager : MonoBehaviour {
 	
 
 	public void Quit () 
 	{
-		#if UNITY_EDITOR
-		UnityEditor.EditorApplication.isPlaying = false;
-		#else
-		Application.Quit();
-		#endif
+        Application.Quit();
 	}
-    public void Restart()
+    public void Level2()
     {
-        EditorSceneManager.LoadScene("myboxman01");
+        SceneManager.LoadScene(1);
+    }
+    public void Level1()
+    {
+        SceneManager.LoadScene(0);
     }
 }

@@ -66,6 +66,8 @@
      <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
      <Compile Include="Assets\Scripts\TiltWindow.cs" />
      <Compile Include="Assets\Walk.cs" />
+     <Compile Include="Assets\boxmove.cs" />
+     <Compile Include="Assets\parent.cs" />
      <Compile Include="Assets\yellow.cs" />
      <Compile Include="Assets\youwin.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />

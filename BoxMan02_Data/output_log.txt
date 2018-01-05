@@ -1,0 +1,57 @@
+Mono path[0] = 'D:/file/guanranTest/第二章 C#与Unity2D编程/New Unity Project/BoxMan02_Data/Managed'
+Mono path[1] = 'D:/file/guanranTest/第二章 C#与Unity2D编程/New Unity Project/BoxMan02_Data/Mono'
+Mono config path = 'D:/file/guanranTest/第二章 C#与Unity2D编程/New Unity Project/BoxMan02_Data/Mono/etc'
+PlayerConnection initialized from D:/file/guanranTest/第二章 C#与Unity2D编程/New Unity Project/BoxMan02_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55355
+Multi-casting "[IP] 172.16.6.236 [Port] 55355 [Flags] 3 [Guid] 3393284023 [EditorId] 1361744048 [Version] 1048832 [Id] WindowsPlayer(USER-20170726PD) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55355]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55355]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56023
+PlayerConnection already initialized - listening to [0.0.0.0:55355]
+Player data archive not found at `D:/file/guanranTest/第二章 C#与Unity2D编程/New Unity Project/BoxMan02_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0x1287)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\file\guanranTest\第二章 C#与Unity2D编程\New Unity Project\BoxMan02_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.973213 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e78 -> priority: 1 
+  Thread -> id: 1da4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.319608 ms
+System memory in use before: 20.4 MB.
+System memory in use after: 20.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 942.
+Total: 0.633191 ms (FindLiveObjects: 0.068580 ms CreateObjectMapping: 0.041619 ms MarkObjects: 0.499694 ms  DeleteObjects: 0.021464 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.382602 ms
+System memory in use before: 20.1 MB.
+System memory in use after: 20.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 923.
+Total: 0.518541 ms (FindLiveObjects: 0.057063 ms CreateObjectMapping: 0.031149 ms MarkObjects: 0.397609 ms  DeleteObjects: 0.031410 ms)
+
