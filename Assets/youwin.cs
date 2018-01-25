@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class youwin : MonoBehaviour
+public class YouWin : MonoBehaviour
 {
     public GameObject target;
     GameObject[] box;

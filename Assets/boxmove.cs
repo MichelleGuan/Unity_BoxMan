@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class boxmove : MonoBehaviour {
+public class BoxMove : MonoBehaviour {
     public static bool Left=false;
     public static bool Right=false;
     public static bool Top=false;
